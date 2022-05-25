@@ -19,7 +19,7 @@ const Saram = (props) => {
   );
 };
 
-const SaramItems = ["망해요", "안해요", "안팔아요", "안사요"];
+const SaramItems = ["망해요", "안해요", "안팔아요", "안사요", "아"];
 
 export default function App() {
   return (
